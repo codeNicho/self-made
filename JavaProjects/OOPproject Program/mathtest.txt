@@ -1,0 +1,41 @@
+How many digits are there in Hindu-Arabic System? A. 10 -- B. 20 -- C. 30 -- D. 40
+A
+Among the following which natural number has no predecessor? A. 100 -- B. 200 -- C. 1 -- D. 0
+C
+Which among the following is the largest known number in the world? A. Infinity -- B. googol -- C. googolplex -- D. gram
+C
+Among the following which whole number has no predecessor? A. -1 -- B. 0 -- C. 1 -- D. e
+B
+Counting numbers are kept under which category.? A. Natural -- B. Whole -- C. Rational -- D. Odd
+A
+An integer that is divisible by 2 is called:A. Even Number -- B. Natural Number -- C. Odd Number -- D. Whole Number
+A
+In which number system, there is no symbol for zero? A. Hindu Arabic -- B. Roman -- C. Egyptian -- D. Mesopotamia
+B
+What does D represent in Roman numeral system? A. 100 -- B. 500 -- C. 1000 -- D. 50
+B
+If 5 = V, How does 5,000 written in roman numeral system? A. V -- B. MMMMM -- C. MX -- D. VM
+A
+The whole number is denoted by? A. 'N' -- B. 'R' -- C. 'W' -- D. 'Q'
+C
+All counting numbers, together with their negatives and zeros constitute the set of: A. Whole number -- B. Real numbers -- C. Integers -- D. Odd number
+C
+Any number in the form of 2p – 1, where p is a prime is known as: A. Dual Prime -- B. Goldbach Prime -- C. Mersenne Prime -- D. Golden Prime
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

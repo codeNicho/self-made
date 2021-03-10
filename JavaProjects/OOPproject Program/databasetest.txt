@@ -1,0 +1,23 @@
+Universal-relation approach of a single schema defines interactions of database along with  A. Users -- B. Systems -- C. Applications -- D. Both A and C
+D
+Term that is considered as a basis for most robust authentication schemes, is said to be A. Identification -- B. Registration -- C. Encryption -- D. Refine Information
+C
+Functional dependencies are used for A. Testing instances of relations  -- B. Specify constraints on legal relations -- C. Both A and B -- D. Specifying Domain
+C
+Method that supports high transaction rates, is known as A. Presentation pooling -- B. Queue pooling -- C. Connection pooling D. -- Buffer pooling
+
+A data model called Entity Data Model is developed by  A. Microsoft -- B. SQL -- C. Oracle-- D. Apple
+A
+Schema for relation r, with 'R' denoting set of attributes, can be expressed by notation  A. 'r' -- B. 'R'-- C. r(R)-- D. R(r)
+C
+In asymmetric-key encryption process, key used to encrypt data is known as  A. Public key  -- B. Private key -- C. Modulation key -- D. Encryption key
+A
+Process of creation of an E-R design tends to generate  A. 2NF Designs -- B. 3NF Designs -- C. 4NF Designs -- D. 5NF Designs
+C
+Multivalued dependencies helps in eliminate of some forms of  A. Redundancy  -- B. Isolation-- C. Atomicity-- D. Inconsistency
+D
+Digital certificates are widely used to authenticate A. Websites -- B. Users -- C. Protocols -- D.Both A and B
+
+
+
+ 

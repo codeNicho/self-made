@@ -1,0 +1,41 @@
+Which of the following sequence of instructions does the Control Unit Perform? A. Decodes, Executes and Fetches -- B. Fetches, Decodes and Executes -- C. Executes, Decodes and Fetches -- D. Fetchs, Executes and Decodes
+B
+A diskette is divided into a number of concentric circles called A. Sectors -- B. Cylinders -- C. Tracks -- D. Clusters
+C
+The storage capacity of a floppy disk is A. 1.44 MB -- B. 1.44 GB -- C. 1440 KB -- D. 1440MB
+A
+The four bit binary rpresentation of the decimal number 8 is A. 0001 -- B. 0010 -- C. 0100 -- D. 1000
+B
+The barcode reader in a device is used to A. Input data -- B. Output data -- C. Store data -- D. Process data
+A
+Which of the following devices is NOT used in point-of-sale- Terminals? A. Printer -- B. Plotter -- C. Barcode Reader -- D. Electronic Cash Register
+B
+The one's complement of 01010011 is A. 11010011 -- B. 01011111 -- C. 10101100 -- D. 11111111
+C
+In modern personal computers, the CPU speed is measured in A. Nanoseconds -- B. Milliseconds -- C. MHz-- D. GHz
+D
+A wedged-shaped slice on a disk is referred to as a A. Buffer -- B. Cylinder -- C. Sector -- D. Track
+C
+Which of the following units performs mathematical calculations? A. Control -- B. Fetch -- C. Arithmetic and Logic -- D. Central processing
+C
+Which of the following provides transmission of data in both directions at the same time? A. Half Duplex -- B. Full Duplex -- C. Null Duplex -- D. Simplex
+B
+In the URL http://www.shows.com, 'shoes.com' stands for the A. Extension -- B. Company Name -- C. Domain Name -- D. Internet Company
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
