@@ -1,0 +1,7 @@
+=======================================================================================================
+This website was created with PHP, HTML/CSS and MySql.
+Since PHP is a server side script, a server is required to run it choose ONE of the following:
+1. Download WAMP for Windows, LAMP for Linux OR XAMPP for other operating systems
+2. Purchase a server if you got the dough.
+
+I personally use WAMP on my windows machine and it works like a charm.
