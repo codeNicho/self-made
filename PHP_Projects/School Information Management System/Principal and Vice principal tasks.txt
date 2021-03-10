@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vice-Principal
 1. Create Timetable
 2. Assign teacher to class
@@ -155,4 +156,163 @@ Class assigned
 </tr>
 </table>
 </font>
+=======
+Vice-Principal
+1. Create Timetable
+2. Assign teacher to class
+3. Assess teacher
+4. View teacher assessment if one exists
+
+search users if teacher exists, assign to class
+search users if teacher exists, assess them
+view teacher assessment 
+
+Teacher should have two more fields
+Class assigned
+
+0329 	TEAHCERTEST 	TEACHERTEST 	2020-12-09
+
+
+			<div class="card">
+                          <h3 style="text-align:left;"><?php  if (isset($_SESSION['id'])) :
+                            echo "ID: ".$_SESSION['id']."<br>";
+                            echo "First Name: ".$_SESSION['fname']."<br>";
+                            echo "Last Name: ".$_SESSION['lname']."<br>";
+                            echo "Title: ".$_SESSION['title']."<br>";
+                            echo "Date of Birth: ".$_SESSION['dob']."<br>";
+                            echo "email: ".$_SESSION['email']."<br>";
+                            echo "Password: ".$_SESSION['password']."<br>";
+                            endif ?>
+                          </h3>
+                          <div style="margin: 24px 0;">
+
+                          </div>
+                        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+        <header class="header">
+            <section class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-sm-8 col-xs-12">
+                            <div class="contact">
+                                <p><span class="phone"><a href="#">Tel: (876) 927-1680-8; Fax: (876) 977-4388/(876) 927-1925</a></span><span class="email"><a href="#">Email: theutechacademy@utech.edu.jm</a></span><span class="address"><a href="#">Address: 237 Old Hope Road, Kingston 6, Jamaica W.I.</a></span></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="join-us">
+                               <p><a href="logout.html">LOG OUT</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="header-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5 col-sm-12 col-xs-12">
+                            <a href="#">
+                                <div class="main-logo">
+                                    <img src="img/utechcrest.gif" alt="">
+                                    <h2>University of Technology, Jamaica</h2>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-1 col-sm-12 col-xs-12">
+                            <div class="menu">
+                                <ul class="nav navbar-nav">
+                                    <li class="active"><a href="index.html">HOME</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </header>
+
+<a href="students.html" class="myButton">Back</a><br><br>
+<H1><FONT COLOR="GREEN"><CENTER>TIME TABLE</FONT></H1>
+<font size="4">
+<table border="2" cellspacing="3" align="center">
+<tr>
+ <td align="center">
+ <td>8:30-9:30
+ <td>9:30-10:30
+ <td>10:3-11:30
+ <td>11:30-12:30
+ <td>12:30-2:00
+ <td>2:00-3:00
+ <td>3:00-4:00
+ <td>4:00-5:00
+</tr>
+<tr>
+ <td align="center">MONDAY
+ <td align="center">---<td align="center"><font color="blue">Programming 1 Tutorial<br>
+ <td align="center"><font color="pink">College Mathematics Lecture<br>
+ <td align="center"><font color="red">Artificial Intelligence Lecture<br>
+ <td rowspan="6"align="center">L<br>U<br>N<br>C<br>H
+ <td align="center"><font color="maroon">Major Project<br>
+ <td align="center"><font color="brown">Computer Networks Lecture<br>
+ <td align="center">counselling class
+</tr>
+<tr>
+ <td align="center">TUESDAY
+ <td align="center"><font color="blue">DataBase Design lecture<br>
+ <td align="center"><font color="red">Computer Security Lecture<br>
+ <td align="center"><font color="pink">Calculus I Lecture<br>
+ <td align="center">---
+ <td align="center"><font color="orange">Calculus I Tutorial<BR>
+ <td align="center"><font color="maroon">Major Project<br>
+ <td align="center">library
+</tr>
+<tr>
+ <td align="center">WEDNESDAY
+ <td align="center"><font color="pink">Major Project<br>
+ <td align="center"><font color="orange">Seminar<BR>
+ <td align="center"><font color="brown">SWA<br>
+ <td align="center">---
+ <td colspan="3" align="center"><font color="green"> lab
+</tr>
+<tr>
+ <td align="center">THURSDAY
+ <td align="center">DataBase Design Lab<br>
+ <td align="center"><font color="brown">DataBase Design Tutorial<br>
+ <td align="center"><font color="orange">Computer Security Tutorial<BR>
+ <td align="center">---
+ <td align="center"><font color="blue">SUB4<br>
+ <td align="center"><font color="red">Computer Networks Tutorial<br>
+ <td align="center">library
+</tr>
+<tr>
+ <td align="center">FRIDAY
+ <td align="center"><font color="orange">Major Project<BR>
+ <td align="center"><font color="maroon">Computer Security Lab<br>
+ <td align="center"><font color="blue">Artificial Intelligence Lab<br>
+ <td align="center">---
+ <td align="center"><font color="pink">Programming 1 Lab<br>
+ <td align="center"><font color="brown">Computer Networks Lab<br>
+ <td align="center">library
+</tr>
+<tr>
+ <td align="center">SATURDAY
+ <td align="center"><font color="red">Artificial Intelligence Tutorial<br>
+ <td colspan="3" align="center">seminar
+ <td align="center"><font color="pink">College Mathematics Tutorial<br>
+ <td align="center"><font color="brown">Programming 1 Lecture<br>
+ <td align="center">library
+</tr>
+</table>
+</font>
+>>>>>>> 60e79d9ef6cba61df659774da48cd6429452c559
 <br><br><br><br><br>
